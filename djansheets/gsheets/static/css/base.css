@@ -1,0 +1,14 @@
+#header {
+    padding:10px 100px;
+    font-size:18px;
+    overflow:auto;
+}
+
+
+#header .logo {
+    font-family: 'Ubuntu', sans-serif;
+    float:left;
+    color:#333;
+    font-size:22px;
+    margin-right:10%;
+}
